@@ -19,13 +19,22 @@ Follow these steps to set up and run the project:
 
 2. **Compile Contracts**
 
-   Use the hardhat-zksync-plugin to compile the contracts for the zkSync network:
+    **Note:** Do this to avoid compilation errors:
+   - Add the zkeys folder.
+   - In the `MACI.sol` file, replace `Ownable(msg.sender)` with `Ownable()`, and other files with `Ownable(msg.sender)`.
+   - In the same file, comment out the following line:
 
+     ```solidity
+     // if (hash2([uint256(1), uint256(1)]) == 0) revert PoseidonHashLibrariesNotLinked();
+
+   Use the hardhat-zksync-plugin to compile the contracts for the zkSync network:
+   
    ```shell
    pnpm hardhat compile --network zkSyncTestnet
    ```
 
    **Note:** If you encounter compilation errors:
+   - Add the zkeys folder.
    - In the `MACI.sol` file, replace `Ownable(msg.sender)` with `Ownable()`, and other files with `Ownable(msg.sender)`.
    - In the same file, comment out the following line:
      ```solidity

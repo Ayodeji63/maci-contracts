@@ -1,0 +1,62 @@
+[
+    {
+        "contractName": "PoseidonT5",
+        "contractPath": "maci-contracts/contracts/crypto/PoseidonT5.sol",
+        "missingLibraries": []
+    },
+    {
+        "contractName": "PoseidonT4",
+        "contractPath": "maci-contracts/contracts/crypto/PoseidonT4.sol",
+        "missingLibraries": []
+    },
+    {
+        "contractName": "PoseidonT6",
+        "contractPath": "maci-contracts/contracts/crypto/PoseidonT6.sol",
+        "missingLibraries": []
+    },
+    {
+        "contractName": "PoseidonT3",
+        "contractPath": "maci-contracts/contracts/crypto/PoseidonT3.sol",
+        "missingLibraries": []
+    },
+    {
+        "contractName": "PoseidonT3",
+        "contractPath": "maci-contracts/contracts/crypto/PoseidonT3.sol",
+        "missingLibraries": []
+    },
+    {
+        "contractName": "PoseidonT5",
+        "contractPath": "maci-contracts/contracts/crypto/PoseidonT5.sol",
+        "missingLibraries": []
+    },
+    {
+        "contractName": "PoseidonT6",
+        "contractPath": "maci-contracts/contracts/crypto/PoseidonT6.sol",
+        "missingLibraries": []
+    },
+    {
+        "contractName": "PoseidonT4",
+        "contractPath": "maci-contracts/contracts/crypto/PoseidonT4.sol",
+        "missingLibraries": []
+    },
+    {
+        "contractName": "PoseidonT6",
+        "contractPath": "maci-contracts/contracts/crypto/PoseidonT6.sol",
+        "missingLibraries": []
+    },
+    {
+        "contractName": "PoseidonT3",
+        "contractPath": "maci-contracts/contracts/crypto/PoseidonT3.sol",
+        "missingLibraries": []
+    },
+    {
+        "contractName": "PoseidonT5",
+        "contractPath": "maci-contracts/contracts/crypto/PoseidonT5.sol",
+        "missingLibraries": []
+    },
+    {
+        "contractName": "PoseidonT4",
+        "contractPath": "maci-contracts/contracts/crypto/PoseidonT4.sol",
+        "missingLibraries": []
+    }
+]
